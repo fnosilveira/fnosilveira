@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Filipe Nogueira Silveira</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Filipe Nogueira Silveira</h1>
 <h3 align="center">Systems Analysis and Development student, currently studying Python for Odoo ERP development and customization (link). I'm based in Brazil.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fnosilveira&color=green" alt="Profile views" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/fnosilveira" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"              alt="fnosilveira" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/fnosilveira" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fnosilveira" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fnosilveira" height="20" width="20" />
   </a>
   <a href="https://fb.com/fnosilveira" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"   alt="fnosilveira" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"   alt="fnosilveira" height="20" width="20" />
   </a>
   <a href="https://instagram.com/fnosilveira" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fnosilveira" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fnosilveira" height="20" width="20" />
   </a>
 </p>
 
@@ -53,4 +52,6 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> 
   </a> 
 </p>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=fnosilveira&show_icons=true)
 
