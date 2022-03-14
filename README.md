@@ -59,6 +59,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" alt="odoo" width="40" height="20"/> 
   </a> 
 </p>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=fnosilveira&show_icons=true)
-
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnosilveira&show_icons=true&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnosilveira&layout=compact&langs_count=7"/>
+</div>
