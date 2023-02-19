@@ -1,19 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Filipe Nogueira Silveira</h1>
-<h3 align="center">Systems Analysis and Development student, currently studying Python for Odoo ERP development and customization (link). I'm based in Brazil.</h3>
+<h3 align="center">Systems Analysis and Development student, currently studying Python for Odoo ERP development and customization. I'm based in Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fnosilveira&color=green" alt="Profile views" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p align="left"
+<h3 align="left">Connect with me: </h3>
+
   <a href="https://linkedin.com/in/fnosilveira" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fnosilveira" height="20" width="20" />
-  </a>
-  <a href="https://fb.com/fnosilveira" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"   alt="fnosilveira" height="20" width="20" />
-  </a>
-  <a href="https://instagram.com/fnosilveira" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fnosilveira" height="20" width="20" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,7 +48,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
   </a>
   <a href="https://www.odoo.com" target="_blank" rel="noreferrer">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" alt="odoo" width="40" height="20"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" alt="odoo" width="62" height="20"/>
   </a>
 </p>
 <div align="center">
