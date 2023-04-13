@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Filipe Nogueira Silveira</h1>
+<h1 align="center">Hi, I'm Filipe Nogueira Silveira</h1>
 <h3 align="center">Systems Analysis and Development student, currently studying Python for Odoo ERP development and customization. I'm based in Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fnosilveira&color=green" alt="Profile views" /> </p>
